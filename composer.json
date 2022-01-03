@@ -13,5 +13,10 @@
         "psr-4": {
             "WHMCS\\Module\\Framework\\": "src/"
         }
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
     }
 }

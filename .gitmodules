@@ -1,0 +1,33 @@
+[submodule "child-process"]
+	path = child-process
+	url = git@github.com:binRick/child-process.git
+[submodule "submodules/async"]
+	path = submodules/async
+	url = https://github.com/reactphp/async
+[submodule "submodules/promise"]
+	path = submodules/promise
+	url = https://github.com/reactphp/promise
+[submodule "submodules/cache"]
+	path = submodules/cache
+	url = https://github.com/reactphp/cache
+[submodule "submodules/promise-timer"]
+	path = submodules/promise-timer
+	url = https://github.com/reactphp/promise-timer
+[submodule "submodules/socket"]
+	path = submodules/socket
+	url = https://github.com/reactphp/socket
+[submodule "submodules/dns"]
+	path = submodules/dns
+	url = https://github.com/reactphp/dns
+[submodule "submodules/event-loop"]
+	path = submodules/event-loop
+	url = https://github.com/reactphp/event-loop
+[submodule "submodules/filesystem"]
+	path = submodules/filesystem
+	url = https://github.com/reactphp/filesystem
+[submodule "submodules/stream"]
+	path = submodules/stream
+	url = https://github.com/reactphp/stream
+[submodule "submodules/promise-stream"]
+	path = submodules/promise-stream
+	url = https://github.com/reactphp/promise-stream
